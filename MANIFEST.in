@@ -3,3 +3,4 @@ include *.hpp
 include *.cpp
 include test/*.sass
 include README.rst
+graft win32
